@@ -4,6 +4,7 @@ fuzzywuzzy 0.15.1: https://pypi.python.org/pypi/fuzzywuzzy
 discord.py: https://github.com/Rapptz/discord.py
 
 It's usage is as follows:
+
 @<botname> - Initializes the bot
 
 mortar <grid> - Sets a mortar location
