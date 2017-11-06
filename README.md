@@ -19,3 +19,5 @@ sleep - Wipes the session data and puts the bot to sleep
 
 remove [grid] - Removes a mortar at the exact specified grid
 ```
+
+The bot attempt to parse any messages from the channel its initiated in. If you want to use it with a team, you can initialize it in a channel with several users, or if you'd rather use it privately, just PM it.
