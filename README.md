@@ -5,15 +5,15 @@ discord.py: https://github.com/Rapptz/discord.py
 
 It's usage is as follows:
 
-@<botname> - Initializes the bot
+@[botname] - Initializes the bot
 
-mortar <grid> - Sets a mortar location
+mortar [grid] - Sets a mortar location
 
-target <grid> - Prints out the elevation and azimuth for every mortar to hit that target
+target [grid] - Prints out the elevation and azimuth for every mortar to hit that target
 
-adjust <distance> <bearing> - Adjusts the last target by said distance and direction
+adjust [distance] [bearing] - Adjusts the last target by said distance and direction
 
 sleep - Wipes the session data and puts the bot to sleep
 
-remove <grid> - Removes a mortar at the exact specified grid
+remove [grid] - Removes a mortar at the exact specified grid
 
